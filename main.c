@@ -3,6 +3,12 @@
 
 //i fixed the main function
 
+void prntArray(int * arr, int n) {
+    for (int i =0 ; i < n ; i++) {
+        printf("%d ", arr[i]);
+    }
+}
+
 void main() {
     printf("hello");
 }
