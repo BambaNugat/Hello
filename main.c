@@ -1,5 +1,8 @@
 #include <stdio.h>
 
-void main {
+
+//i fixed the main function
+
+void main() {
     printf("hello");
 }
