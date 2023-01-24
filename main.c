@@ -7,6 +7,10 @@ void yeah() {
     return 0;
 }
 
+void yeaaaah() {
+    return 1;
+}
+
 void prntArray(int * arr, int n) {
     for (int i =0 ; i < n ; i++) {
         printf("%d ", arr[i]);
